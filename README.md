@@ -16,10 +16,9 @@ An interactive **Power BI Dashboard** with integrated **3D BMW car models**, com
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="./assets/dashboard_preview.png" alt="BMW 3D Dashboard Preview" width="800"/>
+  <img src="[./assets/dashboard_preview.png](https://github.com/shanmukhsaibada/PowerBI_Bmw_Analytics_p5/blob/main/bmwthumbnail.png)" alt="BMW 3D Dashboard Preview" width="800"/>
 </p>  
 
-*(Replace with your actual dashboard screenshot at `assets/dashboard_preview.png`)*
 
 ---
 
